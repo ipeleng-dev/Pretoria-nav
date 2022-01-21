@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "204834704914",
+    "firebase_url": "https://pretorianav-8a2f5-default-rtdb.firebaseio.com",
+    "project_id": "pretorianav-8a2f5",
+    "storage_bucket": "pretorianav-8a2f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204834704914:android:a3a451b4e3f1c32c7b12cb",
+        "android_client_info": {
+          "package_name": "com.poe.preotrianav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204834704914-ab3fhfqeqm9mtmj9kl76l09co0qh830n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmBNECro6aFHH2hWLF4WYHxk1ViXuI5Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204834704914-ab3fhfqeqm9mtmj9kl76l09co0qh830n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204834704914:android:f3d4336576c74be17b12cb",
+        "android_client_info": {
+          "package_name": "ru.embersoft.favoritelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204834704914-ab3fhfqeqm9mtmj9kl76l09co0qh830n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmBNECro6aFHH2hWLF4WYHxk1ViXuI5Lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204834704914-ab3fhfqeqm9mtmj9kl76l09co0qh830n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

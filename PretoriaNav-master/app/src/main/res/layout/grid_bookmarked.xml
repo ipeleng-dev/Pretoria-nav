@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="280dp"
+    android:background="@drawable/trans">
+
+
+
+
+        <RelativeLayout
+            android:id="@+id/relative_viewBookmark"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:background="@drawable/stairs">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/text_title_bookmark"
+                android:textSize="30dp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/sharp"
+                android:gravity="center"
+                android:layout_marginTop="180dp"
+                android:text="Union Building"
+                android:layout_marginLeft="20dp"
+                android:textStyle="bold"/>
+
+            <RatingBar
+                android:id="@+id/ratingBar"
+                android:numStars="1"
+                android:stepSize="1"
+                android:layout_marginTop="180dp"
+                android:layout_marginLeft="260dp"
+                android:scaleX="1"
+                android:scaleY="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </RelativeLayout>
+
+</RelativeLayout>

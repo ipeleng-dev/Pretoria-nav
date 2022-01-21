@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/trans"
+    tools:context=".bookmarked_fragment"
+    >
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle_bookmarked"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/round_view">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</RelativeLayout>
